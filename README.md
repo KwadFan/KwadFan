@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/GNU%20Bash-2e3440?logo=GNUBash&logoColor=4EAA25&style=for-the-badge">
   <img src="https://img.shields.io/badge/Github-2e3440?logo=Github&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/VS%20Code-2e3440?logo=Visual%20Studio%20Code&logoColor=007ACC&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Neovim-2e3440?logo=Neovim&logoColor=57A143&style=for-the-badge">
   <img src="https://img.shields.io/badge/Manjaro-2e3440?logo=Manjaro&logoColor=35BF5C&style=for-the-badge">
   <img src="https://img.shields.io/badge/Debian-2e3440?logo=Debian&logoColor=A81D33&style=for-the-badge">
 </div>
