@@ -7,6 +7,9 @@
 - likes to learn new stuff
 - Truck Driver :truck:
 - Hobby Coder and Linux Sys Admin (Hopefully one day more than that... :wink:) :computer:
+- FPV / RC Flyer :small_airplane:
+
+---
 
 ## What I am highly interested in
 
@@ -85,3 +88,28 @@
   <img src="https://img.shields.io/badge/Kubernetes-2e3440?logo=Kubernetes&logoColor=326CE5&style=for-the-badge">
   <img src="https://img.shields.io/badge/Amazon%20AWS-2e3440?logo=Amazon%20AWS&logoColor=232F3E&style=for-the-badge">
 </div>
+
+## My Favorite Repos / Projects
+
+- [Mainsail](https://docs.mainsail.xyz/)
+
+  - [on Github](https://github.com/mainsail-crew/mainsail)
+
+- [CustomPiOS by Guy Sheffer](https://github.com/guysoft/CustomPiOS)
+
+- [KIAUH by th33xitus](https://github.com/th33xitus/kiauh)
+
+- [Voron Design](https://vorondesign.com/)
+
+  - [on Github](https://github.com/VoronDesign)
+
+---
+
+<div align="center">
+  <img src="assets/logo-mainsail.png" alt="Mainsail Logo" style="width:400px">
+  <p>
+    <strong>
+      Proud to be a part of the Crew ...
+    </strong>
+  </p>
+<div>
